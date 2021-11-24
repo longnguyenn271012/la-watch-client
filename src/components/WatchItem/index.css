@@ -1,0 +1,8 @@
+.card-product {
+  transition: all .5s;
+}
+.card-product:hover {
+    -webkit-box-shadow: 4px 7px 34px -3px rgba(0,0,0,0.59); 
+    box-shadow: 4px 7px 34px -3px rgba(0,0,0,0.59);
+    transition: all .5s;
+}

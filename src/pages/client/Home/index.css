@@ -1,0 +1,28 @@
+.campaign {
+    background-image: url(../../../assets/images/background-1.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.campaign-button {
+    
+    margin-top: 1rem;
+    padding: 10px 40px;
+    background-color: inherit;
+    border: 1px solid whitesmoke;
+    color : whitesmoke
+}
+.campaign-button:hover {
+    background-color: whitesmoke;
+    color: black;
+    transition: 1s;
+   
+}
+.camgaign-menu {
+    border-top: 1px solid whitesmoke;
+}
+.policy span {
+    font-size: .8rem;
+}

@@ -1,0 +1,15 @@
+.product-info{
+    display: flex;
+    justify-content: space-between;
+}
+.product-info p {
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: .02em;
+    color: #161a21;
+}
+.product-left{
+    display: grid;
+    align-content: space-evenly;
+}

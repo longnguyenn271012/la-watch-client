@@ -1,0 +1,52 @@
+.footer_titleStores__Drp5w {
+  font-weight: bold;
+  font-size: 1rem;
+  line-height: 14px;
+  letter-spacing: 0.02em;
+  color: #161a21;
+
+  padding: 0 0 32px;
+  margin: 0;
+}
+
+.footer_infoText {
+  padding: 0 0 22px;
+  margin: 0;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 0.02em;
+  color: #161a21;
+}
+.footer-contact-icon .svg {
+  font-size: 2rem;
+}
+
+.footer-form input {
+  width: 100%;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 0.02em;
+  color: #161a21;
+  padding: 0.8em;
+  border: 1px solid #d6d6d4;
+  margin-bottom: 1rem;
+}
+.footer-form-button {
+    margin-top: 1rem;
+    padding: 10px 40px;
+    background-color: gray;
+    border: 1px solid whitesmoke;
+    color : whitesmoke;
+    width: 100%;
+}
+.footer-copyright {
+    background-color: rgb(233, 227, 227);
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-copyright p {
+    margin-bottom: 0;
+    font-size: 0.9rem;
+}

@@ -1,0 +1,44 @@
+.editForm_formInput__2Phfa {
+  background: #f8f7f4;
+  border: none;
+  border: 1px solid rgba(85, 108, 147, 0.15);
+  height: 50px;
+  padding: 0 16px;
+  width: 100%;
+  font-size: 14px;
+  line-height: 20px;
+  -webkit-appearance: none;
+}
+.button-checkout {
+  padding: 1rem 4rem;
+  width: 80%;
+}
+.go-to-home {
+  color: black;
+  font-weight: bold;
+}
+.go-to-home:hover {
+  color: black;
+}
+.sup-button {
+  font-size: .8rem;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #061931;
+ 
+  margin: 0;
+}
+.coupon-code-input {
+
+    font-weight: 500;
+    line-height: 14px;
+    letter-spacing: .02em;
+    text-align: center;
+   
+   
+    padding: .9rem 3rem;
+}
+.button-coupon{
+  
+}

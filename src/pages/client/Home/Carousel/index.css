@@ -1,0 +1,60 @@
+.banner-image {
+  position: relative;
+}
+
+.banner-content {
+  position: absolute;
+  top: 23%;
+  left: 14%;
+  color: whitesmoke;
+  
+}
+.banner-title {
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  opacity: .95;
+}
+.banner-subtitle {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0.5em;
+  /* text-align: center; */
+  margin-bottom: 24px;
+}
+
+.banner-description {
+  font-family: SVN-Gotham;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.04em;
+  /* text-align: center; */
+  margin-bottom: 24 px;
+  max-width: 370 px;
+}
+
+.btn-banner {
+    
+    margin-top: 1rem;
+    padding: 10px 40px;
+    background-color: inherit;
+    border: 1px solid whitesmoke;
+    color : whitesmoke;
+    transition: all .5s;
+}
+.btn-banner:hover {
+    background-color: whitesmoke;
+    color: black;
+    transition: .5s;
+   
+}
